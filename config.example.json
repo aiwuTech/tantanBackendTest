@@ -1,0 +1,9 @@
+{
+  "debug": true,
+  "addr": ":3000",
+  "db": {
+    "dsn": "root:@tcp(127.0.0.1:3306)/tantantest?charset=utf8&parseTime=True&loc=Local",
+    "maxOpen": 100,
+    "maxIdle": 10
+  }
+}
